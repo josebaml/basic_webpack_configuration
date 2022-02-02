@@ -1,0 +1,18 @@
+$body-color: #dc7633;
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+}
+
+body {
+  color: $body-color;
+  background-color:beige;
+  min-height: 100vh;
+  margin: 5rem;
+}
+
+h1{
+    text-align: center;
+    font-size: 2.5rem;
+}
